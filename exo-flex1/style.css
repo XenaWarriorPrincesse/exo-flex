@@ -1,0 +1,20 @@
+*{
+    margin:0;
+}
+section{
+    background-color:orange;
+    
+}
+.flex-container{
+    display: flex;
+    align-items: center;
+    margin: 0px 10px;
+    gap: 10px;
+    height: 100vh;
+}
+.flex-item{
+
+    background-color: rgb(255, 38, 0);
+    padding: 30px;
+    height: 20%;
+}

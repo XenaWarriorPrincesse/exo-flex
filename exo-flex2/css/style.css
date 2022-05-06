@@ -1,0 +1,73 @@
+
+
+/* First row */
+
+.flex-container1{
+    display: flex;
+}
+.flex-item1{
+    height: 50px ;
+    background-color: orange;
+    width: 100%;
+    align-items: center;
+    text-align: center;
+    padding: 30px;
+}
+
+/* End First row */
+
+/* Second row */
+
+.flex-container2{
+    display: flex;
+    gap: 7px;
+}
+
+.flex-item2{
+    background-color: orange;
+    height: 50px;
+    width: 100%;
+    padding: 30px;
+    margin: 10px 0px 10px;
+    align-items: center;
+    text-align: center;
+}
+
+/* End Second row */
+
+/* Third row */
+
+.flex-container3{
+    display: flex;
+    gap: 7px;
+}
+
+.flex-item3{
+    background-color: blue;
+    height: 50px;
+    width: 100%;
+    padding: 30px;
+    margin-bottom: 10px;
+    align-items:center ;
+    text-align: center;
+}
+
+/* End Tird row */
+
+/* Fourth row */
+
+.flex-container4{
+    display: flex;
+    gap: 7px;
+}
+
+.flex-item4{
+    background-color: blueviolet;
+    height: 50px;
+    width: 100%;
+    padding: 30px;
+    align-items: center;
+    text-align: center;
+}
+
+/* End Fourth row */

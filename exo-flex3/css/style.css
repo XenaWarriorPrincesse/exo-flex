@@ -1,0 +1,54 @@
+/* Header */
+
+header{
+    background-color: blue;
+    height: 60px;
+    width: 100%;
+    border-radius: 6px;
+}
+
+/* End Header */
+
+/* Body */
+
+.container{
+    display: flex;
+    gap:10px;
+    height: 100vh;
+}
+
+.item1{
+    background-color: orange;
+    margin: 10px 0px 10px;
+    width: 25%;
+    border-radius: 6px;
+}
+
+.item2{
+    background-color: rgb(89, 168, 241);
+    margin: 10px 0px 10px;
+    width: 50%;
+    border-radius: 6px;
+}
+
+.item3{
+    background-color:orange;
+    margin: 10px 0px 10px;
+    width: 25%;
+    border-radius: 6px;
+}
+
+
+
+/* End Body */
+
+/* Footer */
+
+footer{
+    background-color: blue;
+    height: 60px;
+    width: 100%;
+    border-radius: 6px;
+}
+
+/* End Footer */
